@@ -141,7 +141,7 @@ function populateAllBooks() {
         price: 150,
         category: "Fiction",
         salerID: 2,
-        imgLink: "./Resources/Images/books/WeFreetheStars.jpg",
+        imgLink: "./Resources/Images/books/WeFreeTheStars.jpg",
         stockNum: 19,
       },
 
@@ -474,7 +474,7 @@ function populateMyBooks() {
         price: 150,
         category: "Fiction",
         userID: 1,
-        imgLink: "./Resources/Images/books/WeFreetheStars.jpg",
+        imgLink: "./Resources/Images/books/WeFreeTheStars.jpg",
         stockNum: 10,
         bestSeller: false,
         recentlyAdded: true,
@@ -831,7 +831,7 @@ function populateAllOrders() {
             name: "We Free The Stars",
             price: 150,
             quantity: 2,
-            imgLink: "./Resources/Images/books/WeFreetheStars.jpg",
+            imgLink: "./Resources/Images/books/WeFreeTheStars.jpg",
             bookId: 6,
           },
           {

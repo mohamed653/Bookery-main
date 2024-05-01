@@ -73,7 +73,7 @@
       "price": 150,
       "category": "Fiction",
       "userID": 1,
-      "imgLink": "./Resources/Images/books/WeFreetheStars.jpg",
+      "imgLink": "./Resources/Images/books/WeFreeTheStars.jpg",
       "stockNum": 10,
       "bestSeller": false,
       "recentlyAdded": true
