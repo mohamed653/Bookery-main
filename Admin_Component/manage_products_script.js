@@ -1,4 +1,4 @@
-import data from "../../Data/books.json" assert { type: "json" };
+import data from "../Data/books.json" assert { type: "json" };
 import * as valid from "../seller/valid.js";
 
 let allBooks = [];

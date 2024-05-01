@@ -1,4 +1,4 @@
-import data from "../../Data/books.json" assert { type: "json" };
+import data from "../Data/books.json" assert { type: "json" };
 import * as valid from "./valid.js";
 
 let currentUser = localStorage.getItem("currentUser");
@@ -165,7 +165,7 @@ if (currentUser) {
       //   valid.clearModalInputs();
       // });
 
-     /* document.addEventListener("click", (e) => {
+      /* document.addEventListener("click", (e) => {
         debugger;
         console.log(e.target.parentNode.classList);
         if (e.target.parentNode.classList.contains("editb")) {
@@ -176,9 +176,6 @@ if (currentUser) {
           valid.clearModalInputs();
         }
       });*/
-
-     
-
 
       /*===============End Edit================*/
 
