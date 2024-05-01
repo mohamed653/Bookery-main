@@ -25,7 +25,7 @@ body {
 }
 /*------------ left box ------------*/
 .left-box {
-  background: url("/Resources/Images/login-sign_in/signup2.png") no-repeat
+  background: url("../Resources/Images/login-sign_in/signup2.png") no-repeat
     center center;
   background-size: cover;
 }
